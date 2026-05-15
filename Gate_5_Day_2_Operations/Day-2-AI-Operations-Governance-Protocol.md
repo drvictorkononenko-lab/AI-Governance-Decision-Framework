@@ -213,6 +213,7 @@ When local optimization fails, the organization must move backwards through the 
 | Infrastructure Failure | Revisit architecture and operational dependencies |
 | Model Failure | Revisit assumptions, segmentation, observability |
 | Regulatory Failure | Revisit governance and compliance design |
+
 **The Re-entry Protocol:**
 After a Kill Switch event, the system cannot be "hot-started" directly back into production. The updated logic must pass a mandatory validation phase (e.g., Shadow Mode) to confirm the resolution before regaining access to live business traffic and P&L.
 
