@@ -14,7 +14,7 @@ This framework provides a structured, risk-based approach to managing the full l
 
 | Phase | Artifact | Format |
 |---|---|---|
-| **Gate 1** | [AI Use Case Triage & Economic Signal Matrix](./AI-Use-Case-Triage-Matrix.xlsx) | Excel |
+| **Gate 1** | [AI Use Case Triage & Economic Signal Matrix](./Gate_1_Use_Case_Triage/AI-Use-Case-Triage-Matrix.xlsx) | Excel |
 | **Gate 2** | [AI Architecture & Integration Risk Matrix](./AI-Architecture-Integration-Risk-Matrix.xlsx) | Excel |
 | **Gate 3** | [MVP Exit Criteria & Validation Protocol](./Gate_3_MVP_Exit_Criteria/MVP-Exit-Criteria-Validation-Protocol.md) | Markdown |
 | **Gate 4** | [AI Economic Value & ROI Model](./AI-Economic-Value-ROI-Model.xlsx) | Excel |
