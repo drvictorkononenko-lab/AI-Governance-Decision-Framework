@@ -18,7 +18,7 @@ This framework provides a structured, risk-based approach to managing the full l
 | **Gate 2** | [AI Architecture & Integration Risk Matrix](./AI-Architecture-Integration-Risk-Matrix.xlsx) | Excel |
 | **Gate 3** | [MVP Exit Criteria & Validation Protocol](./Gate_3_MVP_Exit_Criteria/MVP-Exit-Criteria-Validation-Protocol.md) | Markdown |
 | **Gate 4** | [AI Economic Value & ROI Model](./AI-Economic-Value-ROI-Model.xlsx) | Excel |
-| **Gate 5** | [Day-2 AI Operations & Governance Protocol](./Day-2-AI-Operations-Governance-Protocol.md) | Markdown |
+| **Gate 5** | [Day-2 AI Operations & Governance Protocol](./Gate_5_Day_2_Operations/Day-2-AI-Operations-Governance-Protocol.md) | Markdown |
 
 ---
 **Author:** Victor Kononenko, PhD  
